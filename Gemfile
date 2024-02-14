@@ -39,6 +39,9 @@ gem 'devise'
 gem 'devise-jwt'
 gem 'jsonapi-serializer'
 gem 'dotenv-rails'
+gem 'activeadmin'
+gem 'sprockets', '~>3.0'
+gem 'sass-rails'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
