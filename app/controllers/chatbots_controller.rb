@@ -1,0 +1,2 @@
+class ChatbotsController < ApiController
+end
